@@ -1,4 +1,4 @@
-PengalamanBelajar
+Pengalaman Belajar di DICODING
 ==
 Repository ini Berisi Tentang Pengalaman Belajarku di Dicoding
 --
