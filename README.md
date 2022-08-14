@@ -3,7 +3,7 @@ PengalamanBelajar
 Repository ini Berisi Tentang Pengalaman Belajarku di Dicoding
 --
 
-2 Agustus 2022\
+**2 Agustus 2022**\
 Menyelesaikan Kelas Pengenalan ke Logika Pemrograman (Programming Logic 101)
 
 *Belajar tentang Logika Pemrograman yang meliputi:*
@@ -21,7 +21,7 @@ Menyelesaikan Kelas Pengenalan ke Logika Pemrograman (Programming Logic 101)
 - Logika XOR
 - Logika XNOR
 
-14 Agustus 2022\
+**14 Agustus 2022**\
 Menyelesaikan Kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 
 *Materi yang dipelajari antara lain:*
